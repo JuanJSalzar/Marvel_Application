@@ -3,9 +3,6 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
-# Ignorar el archivo Web.config
-Web.config
-
 # dotenv files
 .env
 
