@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marvel_Application", "Marvel_Application\Marvel_Application.csproj", "{A15684F6-C2D6-4FC3-88EC-170C9A6931FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marvel_Application.Tests", "Marvel_Application.Tests\Marvel_Application.Tests.csproj", "{7DBE1A29-4405-4868-BD15-F337DA934C16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A15684F6-C2D6-4FC3-88EC-170C9A6931FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A15684F6-C2D6-4FC3-88EC-170C9A6931FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A15684F6-C2D6-4FC3-88EC-170C9A6931FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DBE1A29-4405-4868-BD15-F337DA934C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBE1A29-4405-4868-BD15-F337DA934C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBE1A29-4405-4868-BD15-F337DA934C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBE1A29-4405-4868-BD15-F337DA934C16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
