@@ -2,6 +2,7 @@
 {
     public interface IMarvelConfig
     {
-        
+        string PublicKey { get; }
+        string PrivateKey { get; }
     }
 }

@@ -2,6 +2,6 @@
 {
     public class MarvelApiResponse
     {
-        
+        public DataContainer Data { get; set; }
     }
 }
