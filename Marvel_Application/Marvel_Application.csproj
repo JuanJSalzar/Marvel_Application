@@ -140,10 +140,12 @@
     <Compile Include="src\Services\MarvelConfig.cs" />
     <Compile Include="src\Services\MarvelService.cs" />
     <Compile Include="src\Views\Characters.aspx.cs">
+      <DependentUpon>Characters.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="src\Views\Characters.aspx.designer.cs">
       <DependentUpon>Characters.aspx</DependentUpon>
     </Compile>
-    <Compile Include="src\Views\Characters.aspx.designer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
